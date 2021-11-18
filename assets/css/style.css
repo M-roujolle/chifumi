@@ -1,0 +1,31 @@
+button:active {
+    box-shadow: 0 1px white;
+    transform: translateY(10px);
+}
+
+body {
+    background-color: black;
+    font-family: 'Kings', cursive;
+    font-family: 'Lora', serif;
+    padding: 30px;
+    border-radius: 5%;
+    box-shadow: 5px 2px 20px 2px orangered;
+}
+
+.h1 {
+    color: orangered;
+    background-color: black;
+}
+
+.vc {
+    color: orangered;
+}
+
+.milieu {
+    background-color: white;
+}
+
+.score {
+    color: orangered;
+    font-size: 2rem;
+}
